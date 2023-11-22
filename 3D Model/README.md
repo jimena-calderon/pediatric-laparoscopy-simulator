@@ -10,7 +10,7 @@ Here, you can access the models developed to build the simulator. The piece call
 The piece called "base" consists of a structure that fits with the structure of the abdomen as shown in Figure 2. This piece holds the training modules and contains an opening on the right side to accommodate the switch that controls the LED lights. The depth of this piece has been developed in order to imitate the insufflation of the abdomen during laparoscopic surgery.
 
 <p align="center">
-  <img src="Images/3D Model.png" width="300" height="200">
+  <img src="Images/3D Model.png" width="300" height="250">
   <br>
   Figure 2. Visualization of the two pieces fitted together.
 </p>
