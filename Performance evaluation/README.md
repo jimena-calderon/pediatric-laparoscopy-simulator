@@ -23,7 +23,7 @@ Regarding the level of realism of the simulator
 | Visual Aspect  |   |   |   |   |   | 
 | Representation of human anatomy |   |   |   |   |   |
 | Application to various specialties |   |   |   |   |   | 
-| Application to various specialties |   |   |   |   |   |
+| Hole positions |   |   |   |   |   |
 
 Regarding your satisfaction
 | How realistic is it...? | Very insufficient (1) | Insufficient (2) | Sufficient (3) | Good (4) | Very good (5)|
