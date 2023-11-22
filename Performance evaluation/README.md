@@ -25,3 +25,9 @@ Regarding the level of realism of the simulator
 | Application to various specialties |   |   |   |   |   | 
 | Application to various specialties |   |   |   |   |   |
 
+Regarding your satisfaction
+| How realistic is it...? | Very insufficient (1) | Insufficient (2) | Sufficient (3) | Good (4) | Very good (5)|
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Interface: Image quality  |   |   |   |   |   | 
+| Easy to use |   |   |   |   |   |
+| Portability |   |   |   |   |   | 
