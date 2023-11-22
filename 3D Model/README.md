@@ -7,7 +7,7 @@ Here, you can access to the models developed to build the simulator. The piece c
   Figure 1. Positioning of the holes on the surface of the abdomen. On the right there's an approximation of the superimposition of the simulator on a real pediatric abdomen.
 </p>
 
-The piece called "base" consists of a structure that fits with the "abdomen" piece as shown in Figure 2. This piece holds the training modules and contains an opening on the right side to accommodate the switch that controls the LED lights. The depth of this piece has been developed in order to imitate the insufflation of the abdomen during laparoscopic surgery.
+The piece called "base" consists of a structure that fits with the "abdomen" piece as shown in Figure 2. This piece holds the training modules and contains an opening on the right side to accommodate the switch that controls the LED lights. The depth of this piece has been edited in order to imitate the insufflation of the abdomen during laparoscopic surgery.
 
 <p align="center">
   <img src="Images/3D Model.png" width="330" height="250">
