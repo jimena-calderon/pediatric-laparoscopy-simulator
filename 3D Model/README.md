@@ -3,6 +3,7 @@ Here, you can access the models developed to build the simulator. The piece call
 
 <p align="center">
   <img src="Images/Hole Positioning.png" width="320" height="450">
+  <br>
+  Figure 1. Positioning of the holes on the surface of the abdomen. On the right there's an approximation of the superimposition of the simulator on a real pediatric abdomen.
 </p>
-
 
