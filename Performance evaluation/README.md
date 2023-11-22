@@ -17,3 +17,11 @@ Questions to answer after the simulator test
 2. How does this simulator compare to other laparoscopy simulators?
 
 Regarding the level of realism of the simulator
+
+| How realistic is it...? | Very insufficient (1) | Insufficient (2) | Sufficient (3) | Good (4) | Very good (5)|
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Visual Aspect  |   |   |   |   |   | 
+| Representation of human anatomy |   |   |   |   |   |
+| Application to various specialties |   |   |   |   |   | 
+| Application to various specialties |   |   |   |   |   |
+
