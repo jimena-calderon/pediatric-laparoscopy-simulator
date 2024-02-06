@@ -29,6 +29,17 @@ Regarding your satisfaction
 | How realistic is it...? | Very insufficient (1) | Insufficient (2) | Sufficient (3) | Good (4) | Very good (5)|
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Interface: Image quality  |   |   |   |   |   | 
-| Easy to use |   |   |   |   |   |
+| Easy of use |   |   |   |   |   |
 
-Additionally, participants were allowed to leave comments.
+Additionally, participants were allowed to leave comments. Operationalization of the variables is shown in the following table
+| Variable | Definition | Type of Variable | Scale of Measurement | Categories and Values | Means of Verification |
+|---|---|---|---|---|---|
+| Visual Realism | Characteristics that make the simulator resemble a real patient in two dimensions. | Quantitative | Interval | 1 = Very Unsatisfied, 2 = Unsatisfied, 3 = Neutral, 4 = Satisfied, 5 = Very Satisfied | Questionnaire on Realism Perception for Laparoscopic Simulators |
+| Representation of Human Anatomy | Characteristics that make the simulator resemble the actual anatomical features of the pediatric population in two dimensions. | Quantitative | Interval | 1 = Very Unsatisfied, 2 = Unsatisfied, 3 = Neutral, 4 = Satisfied, 5 = Very Satisfied | Questionnaire on Realism Perception for Laparoscopic Simulators |
+| Application to Various Specialties | Applications that specialists surveyed find in the new technology used. | Quantitative | Interval | 1 = Very Unsatisfied, 2 = Unsatisfied, 3 = Neutral, 4 = Satisfied, 5 = Very Satisfied | Questionnaire on Realism Perception for Laparoscopic Simulators |
+| Position of Openings | Positions of the openings in the simulator, concerning the surveyed doctor's specialty. | Quantitative | Interval | 1 = Very Unsatisfied, 2 = Unsatisfied, 3 = Neutral, 4 = Satisfied, 5 = Very Satisfied | Questionnaire on Realism Perception for Laparoscopic Simulators |
+| Satisfaction with Interface Quality | How the image is displayed in real-time on any screen. | Quantitative | Interval | 1 = Very Unsatisfied, 2 = Unsatisfied, 3 = Neutral, 4 = Satisfied, 5 = Very Satisfied | Questionnaire on Satisfaction Level for Laparoscopic Simulators |
+| Satisfaction with Ease of Use | The user's perceived practicality of use. | Quantitative | Interval | 1 = Very Unsatisfied, 2 = Unsatisfied, 3 = Neutral, 4 = Satisfied, 5 = Very Satisfied | Questionnaire on Satisfaction Level for Laparoscopic Simulators |
+
+
+
