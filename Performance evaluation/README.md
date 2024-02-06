@@ -2,36 +2,38 @@
 The validation was developed based on the questions shown below. The evaluation of parameters was carried out based on the Likert scale. Before answering these questions, participants were asked to complete an informed consent.
 
 ## Questions
-1. Name and Surname
-2. Specialty
-3. Gender
-4. Age
-5. How much time of practice in laparoscopy have you done?
-6. How long have you been performing laparoscopic surgery?
-7. How long, since you graduated, have you practiced medicine?
-8. What other methods or devices have you used to practice your laparoscopic skills? At what stage of your profession?
+| Question | Details |
+|---|---|
+| Full name | Name and Surname |
+| Specialty | |
+| Sex | Male or Female |
+| Age | Years |
+| How much time have you spent practicing laparoscopy? | |
+| How long have you been performing laparoscopic surgeries? | |
+| How long have you been practicing medicine since you received your degree? | |
+| What other methods or devices have you used to practice your laparoscopic skills? At what stage of your career? | |
+| To whom would you recommend the use of the pediatric laparoscopy simulator? E.g., surgical residents, general surgeons, pediatric surgeons, etc. | |
+| How does this simulator compare to other laparoscopy simulators? | |
 
-Questions to answer after the simulator test
+## Section 2. Satisfaction
+*(1) Very Unsatisfied; (2) Unsatisfied; (3) Neutral; (4) Satisfied; (5) Very Satisfied*
 
-1. To whom would you recommend the use of the pediatric laparoscopy simulator? Ex: surgical residents, general surgeons, pediatric surgeons, among others.
-2. How does this simulator compare to other laparoscopy simulators?
+| Aspect | Rating Scale |
+|---|---|
+| Interface: Image quality | 1 - 5 |
+| Ease of use | 1 - 5 |
 
-Regarding the level of realism of the simulator
+## Section 3. Realism
+*(1) Very Unsatisfied; (2) Unsatisfied; (3) Neutral; (4) Satisfied; (5) Very Satisfied*
 
-| How realistic is it...? | Very insufficient (1) | Insufficient (2) | Sufficient (3) | Good (4) | Very good (5)|
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Visual Aspect  |   |   |   |   |   | 
-| Representation of human anatomy |   |   |   |   |   |
-| Application to various specialties |   |   |   |   |   | 
-| Hole positions |   |   |   |   |   |
-
-Regarding your satisfaction
-| How realistic is it...? | Very insufficient (1) | Insufficient (2) | Sufficient (3) | Good (4) | Very good (5)|
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Interface: Image quality  |   |   |   |   |   | 
-| Easy of use |   |   |   |   |   |
-
+| Aspect | Rating Scale |
+|---|---|
+| Visual aspect | 1 - 5 |
+| Representation of human anatomy | 1 - 5 |
+| Application to various specialties | 1 - 5 |
+| Position of apertures | 1 - 5 |
 Additionally, participants were allowed to leave comments. Operationalization of the variables is shown in the following table
+
 | Variable | Definition | Type of Variable | Scale of Measurement | Categories and Values | Means of Verification |
 |---|---|---|---|---|---|
 | Visual Realism | Characteristics that make the simulator resemble a real patient in two dimensions. | Quantitative | Interval | 1 = Very Unsatisfied, 2 = Unsatisfied, 3 = Neutral, 4 = Satisfied, 5 = Very Satisfied | Questionnaire on Realism Perception for Laparoscopic Simulators |
