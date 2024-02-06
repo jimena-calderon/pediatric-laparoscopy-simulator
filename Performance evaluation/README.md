@@ -1,5 +1,5 @@
 # Performance Evaluation
-The initial validation was developed based on the questions shown below. The evaluation of parameters was carried out based on the Likert scale. Before answering these questions, participants were asked to complete an informed consent.
+The validation was developed based on the questions shown below. The evaluation of parameters was carried out based on the Likert scale. Before answering these questions, participants were asked to complete an informed consent.
 
 ## Questions
 1. Name and Surname
@@ -30,4 +30,5 @@ Regarding your satisfaction
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Interface: Image quality  |   |   |   |   |   | 
 | Easy to use |   |   |   |   |   |
-| Portability |   |   |   |   |   | 
+
+Additionally, participants were allowed to leave comments.
