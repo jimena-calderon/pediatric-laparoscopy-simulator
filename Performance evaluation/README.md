@@ -32,7 +32,9 @@ The validation was developed based on the questions shown below. The evaluation 
 | Representation of human anatomy | 1 - 5 |
 | Application to various specialties | 1 - 5 |
 | Position of apertures | 1 - 5 |
-Additionally, participants were allowed to leave comments. Operationalization of the variables is shown in the following table
+Additionally, participants were allowed to leave comments. 
+
+Operationalization of the variables is shown in the following table
 
 | Variable | Definition | Type of Variable | Scale of Measurement | Categories and Values | Means of Verification |
 |---|---|---|---|---|---|
